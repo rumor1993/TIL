@@ -10,4 +10,4 @@
  ### JAVA
  - 작성예정
  ### Electron
- - <a href="https://github.com/sangyongchoi/TIL/blob/master/kotlin/coroutines.md">Electron URL Schemes을 통한 앱 실행 (DeepLink)</a>
+ - <a href="https://github.com/rumor1993/TIL/blob/main/Eleectron/DeepLink.md">Electron URL Schemes을 통한 앱 실행 (DeepLink)</a>
