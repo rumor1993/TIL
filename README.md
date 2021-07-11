@@ -9,5 +9,7 @@
 ## 분류
  ### JAVA
  - 작성예정
+ ### JavaScript
+ - 작성예정
  ### Electron
  - <a href="https://github.com/rumor1993/TIL/blob/main/Electron/DeepLink.md">Electron URL Schemes을 통한 앱 실행 (DeepLink)</a>
