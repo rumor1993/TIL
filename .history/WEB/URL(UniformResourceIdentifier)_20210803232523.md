@@ -1,4 +1,4 @@
-# URL ( Uniform Resource Identifier ) 설계 - 1
+# URL ( Uniform Resource Identifier ) 설계
 
 API를 설계하는 과정에서 URL은 굉장히 중요한 부분을 차지한다.  
 좋은 API 설계를 위해서 어떤 방법을 사용하는게 좋을까?
@@ -22,12 +22,4 @@ API를 설계하는 과정에서 URL은 굉장히 중요한 부분을 차지한�
 > 회원 등록 /members{id}  
 >  회원 수정 /members{id}
 
-### 리소스와 행위를 분리
-
-- URI는 리소스만을 사용한다.
-- 리소스를 대상으로 하는 행위를 분리
-
-> 리소스 : 회원  
->  행위 : 조회 / 등록 / 수정 / 삭제  
->  리소스는 <bold>명사<bold>  
->  행위는 <bold>동사<bold>
+## 리소스와 행위를 분리
