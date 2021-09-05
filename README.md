@@ -18,7 +18,7 @@
 - 작성예정
 
 ### DataBase
-- <a href="https://github.com/rumor1993/TIL/blob/main/Database/PostgresqlUpsert.md">Postgre Upsert 활용하기</a>
+- <a href="https://github.com/rumor1993/TIL/blob/main/DataBase/PostgresqlUpsert.md">Postgre Upsert 활용하기</a>
 
 ### Web
 
