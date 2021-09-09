@@ -40,3 +40,5 @@
 ### LINUX
 
 - <a href="https://github.com/rumor1993/TIL/blob/main/LINUX/Ping-Telnet-Traceroute.md">리눅스에서 대상서버 연결 가능여부 체크하기 (Ping, Telnet, Traceroute)</a>
+
+### REDIS
