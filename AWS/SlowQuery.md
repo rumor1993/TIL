@@ -12,15 +12,18 @@
 
 ### 설정방법
 1. RDS 파라미터 그룹
- - 파라미터그룹에 파리미터 설정을 수정한다.
+ 파라미터그룹에 파리미터 설정을 수정한다.
 
 2. log_statement
-ddl은 모든 DDL(데이터 정의 언어) 문(예: CREATE, ALTER 및 DROP)을 로깅합니다.
-mod는 모든 DDL 및 DML(데이터 수정 언어) 문(예: INSERT, UPDATE 및 DELETE)을 로깅합니다.
+ddl은 모든 DDL(데이터 정의 언어) 문(예: CREATE, ALTER 및 DROP)을 로깅합니다.   
+mod는 모든 DDL 및 DML(데이터 수정 언어) 문(예: INSERT, UPDATE 및 DELETE)을 로깅합니다.   
 all은 실행 시간에 상관없이 모든 쿼리를 로깅합니다.
+![image](https://user-images.githubusercontent.com/38723165/135751097-c3fedbf4-08bc-492c-9fe2-bc8b29d7800d.png)
 
 
+3. log_min_duration_statement
+log_min_duration_statement 설정은 ms단위에 설정이 가능한데 500으로 입력시 0.5초 보다 긴 
+쿼리에 대한 기록을 모두 남긴다
+![image](https://user-images.githubusercontent.com/38723165/135751103-96c4e9af-4587-4695-9041-18fdf0cf4f12.png)
 
-# 배포 결과
-
-작성중 ...
+## 운영적용예정
